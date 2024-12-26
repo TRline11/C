@@ -16,7 +16,7 @@ void levorotation(char* arr,int n)
 }
 int main()
 {
-	char arr[] = "abcdef";
+	char arr[] = "abcde";
 	int input = 0;
 	int middle = strlen(arr);
 	scanf("%d", &input);
