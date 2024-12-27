@@ -1,0 +1,7 @@
+﻿  猜猜我是谁.c
+F:\19854\CPP\C\C\猜猜我是谁\猜猜我是谁\猜猜我是谁.c(51,22): warning C4013: “time”未定义；假设外部返回 int
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  猜猜我是谁.vcxproj -> F:\19854\CPP\C\C\猜猜我是谁\Release\猜猜我是谁.exe
